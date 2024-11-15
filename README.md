@@ -1,4 +1,4 @@
-# **Rainfall Prediction and Visualization Application**
+# **Rainfall Prediction using Linear Regression**
 ![App Screenshot](images/2.png)
 This project predicts annual rainfall for districts across India using historical weather data and visualizes the results on an interactive map. By combining machine learning and web integration, the application provides a user-friendly platform for exploring rainfall trends and forecasting.
 
@@ -100,8 +100,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## **Contact**
-For questions or suggestions, feel free to contact **Anas Y** at `your_email@example.com`.
+For questions or suggestions, feel free to contact **Anas Y** at `anasyunusind@gmail.com`.
 
 --- 
-
-This `README.md` provides a professional overview of your project, making it appealing and informative for anyone visiting your GitHub repository. Let me know if you’d like to tweak any section!
